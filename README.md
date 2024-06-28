@@ -43,10 +43,6 @@ To run the notebook and the accompanying code, you need to have Python installed
 - `models/`: Directory for saving and loading trained models.
 - `requirements.txt`: File listing the required Python libraries.
 
-## Results
-
-Include a brief summary of your results here, such as the model's accuracy, mean squared error, or other relevant metrics.
-
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
